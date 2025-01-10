@@ -2,4 +2,4 @@
 
 Its just a small task to rep up. Solution can be seen below:
 
-![grafik](https://github.com/user-attachments/assets/54491c9f-0776-48e6-ab3e-2b36606c3ff3)
+here is the link: https://kingomer02.github.io/qr-code-sl-project/
